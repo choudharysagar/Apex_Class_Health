@@ -447,5 +447,7 @@ The Jest suite covers rendering and pagination, debounced search, grade filterin
 ---
 
 <div align="center">
-<sub>Apex Class Health · Last updated October 2026</sub>
+
+Made with ❤️ by **Sagar Choudhary**
+
 </div>
